@@ -1,0 +1,28 @@
+h2.font {
+    font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+}
+thead.font {
+    font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+}
+tbody.font {
+    font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+}
+li.page-item {
+    font-family: 'courier new', CenturyGothic, AppleGothic, sans-serif;
+}
+a.font {
+    font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+}
+label.col-form-label {
+    font-weight: bold;
+    font-family: 'courier new',arial, courier;
+}
+input.form-control {
+    font-family: 'courier new',arial, courier;
+}
+select.form-control {
+    font-family: 'courier new',arial, courier;
+}
+button.font {
+    font-family: 'Tahoma',arial, courier;
+}
